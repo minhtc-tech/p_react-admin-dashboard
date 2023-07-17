@@ -11,12 +11,6 @@ const menu = [
         icon: 'home.svg',
         height: 19,
       },
-      {
-        title: 'Profile',
-        url: '/profile',
-        icon: 'user.svg',
-        height: 20,
-      },
     ],
   },
   {

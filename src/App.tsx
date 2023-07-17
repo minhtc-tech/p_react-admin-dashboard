@@ -2,7 +2,6 @@ import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom'
 import Navbar from './components/layout/NavBar'
 import SideBar from './components/layout/SideBar'
 import './styles/global.scss'
-import UserPage from './pages/User'
 import HomePage from './pages/Home'
 
 function App() {
@@ -31,10 +30,6 @@ function App() {
         {
           path: '/',
           element: <HomePage />,
-        },
-        {
-          path: '/profile',
-          element: <UserPage />,
         },
       ],
     },

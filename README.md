@@ -3,6 +3,7 @@
 ![Admin Dashboard Demo](images/demo.webp)
 
 - This is a simple admin dashboard project built with React. It provides a user-friendly interface for managing and monitoring various aspects of an application or system.
+- Live demo: https://main.d18q6xdhoyhswk.amplifyapp.com/
 - Please give this source a star, thank you so much 🥰.
 
 ## Installation
